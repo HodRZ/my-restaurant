@@ -1,7 +1,8 @@
 # my-restaurant
+
 Meat Indulgence! -ASAC JS prep course task-
 
-*a brief for my restaurent project* 
+*a brief for my restaurent project*
 
 ## MEAT INDULGENCE
 
@@ -20,3 +21,7 @@ a restaurant specialized in everything meat, a steakhouse if you may!
 
 - Desserts
 ![icecream](https://www.cookingonthefrontburners.com/wp-content/uploads/2020/07/No-Churn-Bourbon-Pecan-Caramel-Ice-Cream-feat-735x735.jpg)
+
+## wireframe
+
+[wireframe board](https://miro.com/app/board/uXjVOpD6Grw=/?share_link_id=223746513640)
